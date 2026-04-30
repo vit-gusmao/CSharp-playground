@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programação\\C#\\CSharp-Playground\\CSharp-Playground.csproj",
+      "projectUniqueName": "C:\\Programação\\C#\\CSharp-Playground\\Proj\\CSharp-Playground.csproj",
       "projectName": "CSharp-Playground",
-      "projectPath": "C:\\Programação\\C#\\CSharp-Playground\\CSharp-Playground.csproj",
+      "projectPath": "C:\\Programação\\C#\\CSharp-Playground\\Proj\\CSharp-Playground.csproj",
       "packagesPath": "C:\\Users\\SnyX\\.nuget\\packages\\",
-      "outputPath": "C:\\Programação\\C#\\CSharp-Playground\\obj\\",
+      "outputPath": "C:\\Programação\\C#\\CSharp-Playground\\Proj\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SnyX\\AppData\\Roaming\\NuGet\\NuGet.Config"

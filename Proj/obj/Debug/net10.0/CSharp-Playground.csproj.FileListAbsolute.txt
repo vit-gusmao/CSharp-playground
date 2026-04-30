@@ -1,0 +1,15 @@
+C:\Programação\C#\CSharp-Playground\Proj\obj\Debug\net10.0\CSharp-Playground.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\C#\CSharp-Playground\Proj\obj\Debug\net10.0\CSharp-Playground.AssemblyInfoInputs.cache
+C:\Programação\C#\CSharp-Playground\Proj\obj\Debug\net10.0\CSharp-Playground.AssemblyInfo.cs
+C:\Programação\C#\CSharp-Playground\Proj\obj\Debug\net10.0\CSharp-Playground.csproj.CoreCompileInputs.cache
+C:\Programação\C#\CSharp-Playground\Proj\obj\Debug\net10.0\CSharp-Playground.sourcelink.json
+C:\Programação\C#\CSharp-Playground\Proj\bin\Debug\net10.0\CSharp-Playground.exe
+C:\Programação\C#\CSharp-Playground\Proj\bin\Debug\net10.0\CSharp-Playground.deps.json
+C:\Programação\C#\CSharp-Playground\Proj\bin\Debug\net10.0\CSharp-Playground.runtimeconfig.json
+C:\Programação\C#\CSharp-Playground\Proj\bin\Debug\net10.0\CSharp-Playground.dll
+C:\Programação\C#\CSharp-Playground\Proj\bin\Debug\net10.0\CSharp-Playground.pdb
+C:\Programação\C#\CSharp-Playground\Proj\obj\Debug\net10.0\CSharp-Playground.dll
+C:\Programação\C#\CSharp-Playground\Proj\obj\Debug\net10.0\refint\CSharp-Playground.dll
+C:\Programação\C#\CSharp-Playground\Proj\obj\Debug\net10.0\CSharp-Playground.pdb
+C:\Programação\C#\CSharp-Playground\Proj\obj\Debug\net10.0\CSharp-Playground.genruntimeconfig.cache
+C:\Programação\C#\CSharp-Playground\Proj\obj\Debug\net10.0\ref\CSharp-Playground.dll

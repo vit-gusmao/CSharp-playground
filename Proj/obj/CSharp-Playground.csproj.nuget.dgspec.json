@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programação\\C#\\CSharp-Playground\\Proj\\CSharp-Playground.csproj": {}
+    "e:\\Programação\\C#\\CSharp-Playground\\Proj\\CSharp-Playground.csproj": {}
   },
   "projects": {
-    "C:\\Programação\\C#\\CSharp-Playground\\Proj\\CSharp-Playground.csproj": {
+    "e:\\Programação\\C#\\CSharp-Playground\\Proj\\CSharp-Playground.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programação\\C#\\CSharp-Playground\\Proj\\CSharp-Playground.csproj",
+        "projectUniqueName": "e:\\Programação\\C#\\CSharp-Playground\\Proj\\CSharp-Playground.csproj",
         "projectName": "CSharp-Playground",
-        "projectPath": "C:\\Programação\\C#\\CSharp-Playground\\Proj\\CSharp-Playground.csproj",
+        "projectPath": "e:\\Programação\\C#\\CSharp-Playground\\Proj\\CSharp-Playground.csproj",
         "packagesPath": "C:\\Users\\SnyX\\.nuget\\packages\\",
-        "outputPath": "C:\\Programação\\C#\\CSharp-Playground\\Proj\\obj\\",
+        "outputPath": "e:\\Programação\\C#\\CSharp-Playground\\Proj\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SnyX\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

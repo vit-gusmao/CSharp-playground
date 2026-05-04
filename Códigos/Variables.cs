@@ -1,45 +1,72 @@
-﻿using System;
+using System;
 
-namespace Variaveis
+namespace Variables
 {
-    class Run
-    {
-        public static void run()
-        {
-            Var.VarBasica();
-        }
-    }
-
-    class Especificas
+    class Program
     {
         static void Main(string[] args)
         {
-            string nome = "Ariel"; // string = texto ""
-            int idade = 32; // int = número 
-            double metade = 0.5; // double = número qualquer com .
-            decimal dinheiro = 80.50m; // decimal = números financeiros com .
-            float memory = 1.21421f; // float = dados de jogos e memórias com .
-            bool SaldoPositivo = true; // bool = true ou false
-            
-            Console.WriteLine($"Minha idade é {idade}"); // $ permite usar variáveis dentro da string
-            Console.WriteLine(dinheiro);
-            Run.run();
-
+            Console.WriteLine("\"int\" = váriavel que armazena números inteiros (exemplo: int num = 10;)");
+           while(true){
+           try{
+                Console.Write("Digite um número inteiro: ");
+                int n_int = int.Parse(Console.ReadLine());
+                Console.WriteLine($"você digitou o número inteiro: {n_int}");
+                break;
+            }catch{
+                Console.WriteLine("Você não digitou um número inteiro.");
+            }
         }
-    }
-    class Var
-    {
-        public static void VarBasica()
-        {
-            // também possui o comando var, que não precisa especificar a variável; ela já mostra o tipo automaticamente de acordo com o que você digita
-            var nome2 = "marcio"; // reconhece que é string pelas aspas
-            var idade2 = 27; // reconhece que é int por ser só um número
-            var dinheiro2 = 100.50m; // reconhece que é decimal por ser um número com . e m no final
-            var umQuarto = 0.25; // reconhece como double por ser um número com . e não ter uma letra no final
-            var memory = 23.5643f; // reconhece como float por ser um número com . e f no final
-            var SaldoNegativo2 = false; // reconhece que é bool por ser true ou false
-            Console.WriteLine($"Meu nome é {nome2}");
-            Console.WriteLine(idade2);
+            Console.WriteLine();
+            
+            Console.WriteLine("\"float\" = váriavel que armazena números reais (exemplo: float pi = 3.14f;)");
+            while(true){
+                try{
+                    Console.Write("Digite um número real: ");
+                    float flt = float.Parse(Console.ReadLine());
+                    Console.WriteLine($"você digitou o número real: {flt}");
+                    break;
+                }catch{
+                    Console.WriteLine("Você não digitou um número real.");
+                }
+        }
+            Console.WriteLine();
+
+            Console.WriteLine("\"string\" = váriavel que armazena uma sequência de caracteres somente usando \"\" (exemplo: string name = \"Vitor\";)");
+            Console.Write("Digite algo: ");
+            string algo = Console.ReadLine();
+            Console.WriteLine($"você digitou \"{algo}\" e foi armazenado como string.\n");
+
+            Console.WriteLine("\"bool\" = váriavel que armazena true ou false (exemplo: bool ativo = true;)");
+             float n1, n2;
+             while(true){
+                try{
+                    Console.Write("Digite um número: ");
+                    n1 = float.Parse(Console.ReadLine());
+                    Console.Write("Digite outro número: ");
+                     n2 = float.Parse(Console.ReadLine());
+                    break;
+                }catch{
+                    Console.WriteLine("Você não digitou um número.");
+                }
+        }
+            bool verify = n1 > n2;
+            Console.WriteLine($"o número {n1} é maior que o número {n2}: {verify}\n");
+            
+            Console.WriteLine("\"char\" = váriavel que armazena um único caractere somente usando '' (exemplo: char letra = 'a';)");
+            while(true){
+                try{
+                    Console.Write("Digite um caractere: ");
+                    char ch = char.Parse(Console.ReadLine());
+                    Console.WriteLine($"você digitou o caractere: {ch}");
+                    break;
+                }catch{
+                    Console.WriteLine("Você não digitou um caractere.");
+                }
+        }
+            Console.WriteLine();
+
+            Console.WriteLine("\"var\" = váriavel que armazena um valor de qualquer tipo.");
         }
     }
 }

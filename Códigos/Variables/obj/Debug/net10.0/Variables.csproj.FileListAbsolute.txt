@@ -1,0 +1,15 @@
+e:\Programação\C#\CSharp-Playground\Códigos\Variables\bin\Debug\net10.0\Variables.exe
+e:\Programação\C#\CSharp-Playground\Códigos\Variables\bin\Debug\net10.0\Variables.deps.json
+e:\Programação\C#\CSharp-Playground\Códigos\Variables\bin\Debug\net10.0\Variables.runtimeconfig.json
+e:\Programação\C#\CSharp-Playground\Códigos\Variables\bin\Debug\net10.0\Variables.dll
+e:\Programação\C#\CSharp-Playground\Códigos\Variables\bin\Debug\net10.0\Variables.pdb
+e:\Programação\C#\CSharp-Playground\Códigos\Variables\obj\Debug\net10.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+e:\Programação\C#\CSharp-Playground\Códigos\Variables\obj\Debug\net10.0\Variables.AssemblyInfoInputs.cache
+e:\Programação\C#\CSharp-Playground\Códigos\Variables\obj\Debug\net10.0\Variables.AssemblyInfo.cs
+e:\Programação\C#\CSharp-Playground\Códigos\Variables\obj\Debug\net10.0\Variables.csproj.CoreCompileInputs.cache
+e:\Programação\C#\CSharp-Playground\Códigos\Variables\obj\Debug\net10.0\Variables.sourcelink.json
+e:\Programação\C#\CSharp-Playground\Códigos\Variables\obj\Debug\net10.0\Variables.dll
+e:\Programação\C#\CSharp-Playground\Códigos\Variables\obj\Debug\net10.0\refint\Variables.dll
+e:\Programação\C#\CSharp-Playground\Códigos\Variables\obj\Debug\net10.0\Variables.pdb
+e:\Programação\C#\CSharp-Playground\Códigos\Variables\obj\Debug\net10.0\Variables.genruntimeconfig.cache
+e:\Programação\C#\CSharp-Playground\Códigos\Variables\obj\Debug\net10.0\ref\Variables.dll

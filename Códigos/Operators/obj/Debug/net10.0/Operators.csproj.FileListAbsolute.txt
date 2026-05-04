@@ -1,0 +1,15 @@
+e:\Programação\C#\CSharp-Playground\Códigos\Operators\obj\Debug\net10.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+e:\Programação\C#\CSharp-Playground\Códigos\Operators\obj\Debug\net10.0\Operators.AssemblyInfoInputs.cache
+e:\Programação\C#\CSharp-Playground\Códigos\Operators\obj\Debug\net10.0\Operators.AssemblyInfo.cs
+e:\Programação\C#\CSharp-Playground\Códigos\Operators\obj\Debug\net10.0\Operators.csproj.CoreCompileInputs.cache
+e:\Programação\C#\CSharp-Playground\Códigos\Operators\obj\Debug\net10.0\Operators.sourcelink.json
+e:\Programação\C#\CSharp-Playground\Códigos\Operators\bin\Debug\net10.0\Operators.exe
+e:\Programação\C#\CSharp-Playground\Códigos\Operators\bin\Debug\net10.0\Operators.deps.json
+e:\Programação\C#\CSharp-Playground\Códigos\Operators\bin\Debug\net10.0\Operators.runtimeconfig.json
+e:\Programação\C#\CSharp-Playground\Códigos\Operators\bin\Debug\net10.0\Operators.dll
+e:\Programação\C#\CSharp-Playground\Códigos\Operators\bin\Debug\net10.0\Operators.pdb
+e:\Programação\C#\CSharp-Playground\Códigos\Operators\obj\Debug\net10.0\Operators.dll
+e:\Programação\C#\CSharp-Playground\Códigos\Operators\obj\Debug\net10.0\refint\Operators.dll
+e:\Programação\C#\CSharp-Playground\Códigos\Operators\obj\Debug\net10.0\Operators.pdb
+e:\Programação\C#\CSharp-Playground\Códigos\Operators\obj\Debug\net10.0\Operators.genruntimeconfig.cache
+e:\Programação\C#\CSharp-Playground\Códigos\Operators\obj\Debug\net10.0\ref\Operators.dll

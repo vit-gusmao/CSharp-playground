@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharp-Playground")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7442696ddd8241e3af54e25fab75633e3f2234c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ccedaefdd84e6575da916974f4da9efdb0e403d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharp-Playground")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharp-Playground")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -22,7 +22,6 @@ class Program
             Console.WriteLine();
 
             Arithmetic(n1, n2);
-
             Console.WriteLine();
 
             Comparison(n1, n2);
@@ -58,5 +57,3 @@ class Program
   }
 }
 
-/*sempre criar  o mesmo metodo do main (static)
-retorno void = nulo */

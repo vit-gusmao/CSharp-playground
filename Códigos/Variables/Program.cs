@@ -6,7 +6,7 @@ namespace Variables
     {
         static void Main(string[] args)
         {
-            Vars.Vars();
+            Vars.Var();
         }
     
     }

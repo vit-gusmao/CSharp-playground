@@ -5,6 +5,7 @@ class Formats
         Raw();
         N();
         Aspas();
+        T();
     }
 
      static void Raw()
@@ -31,12 +32,19 @@ class Formats
         Console.WriteLine($"Primeira linha\nSegunda linha com: {texto}\n");
     }
 
-        static void Aspas()
+    static void Aspas()
     {
         Console.WriteLine("Aspas dentro de strings\n");
         Console.WriteLine("\"\\\\\"\" é usado para mostrar aspas dentro de uma string.\n");
         Console.Write("Digite algo: ");
         string texto = Console.ReadLine();
         Console.WriteLine($"Você disse: \"{texto}\" (com aspas incluídas)\n");
+    }
+     static void T()
+    {
+        Console.WriteLine("\"\\t\" é usado para inserir uma tabulação (tab) no texto.\n");
+        Console.Write("Digite algo: ");
+        string texto = Console.ReadLine();
+        Console.WriteLine($"Aqui está com tabulação:\n\t{texto}");
     }
 }

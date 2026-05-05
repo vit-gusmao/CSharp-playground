@@ -3,11 +3,10 @@ class Vars
     public static void Var()
     {
         Int();
-        Float();
+        Double();
         String();
         Bool();
         Char();
-        Var();
     }
 
     public static void String()
@@ -40,19 +39,19 @@ class Vars
         }
     }
 
-    public static void Float()
+    public static void Double()
     {
-        Console.WriteLine("\"float\" = variável que armazena números reais (exemplo: float pi = 3.14f;)");
+        Console.WriteLine("\"double\" = variável que armazena números reais (exemplo: double pi = 3.14;)");
 
         while (true)
         {
             Console.Write("Digite um número real: ");
 
-            bool verify = float.TryParse(Console.ReadLine(), out float flt);
+            bool verify = double.TryParse(Console.ReadLine(), out double dbl);
 
             if (verify)
             {
-                Console.WriteLine($"você digitou o número real: {flt}\n");
+                Console.WriteLine($"você digitou o número real: {dbl}\n");
                 break;
             }
 
@@ -64,22 +63,22 @@ class Vars
     {
         Console.WriteLine("\"bool\" = variável que armazena true ou false (exemplo: bool ativo = true;)");
 
-        float n1, n2;
+        double n1 = Numinput("Digite um número: ");
+        double n2 = Numinput("Digite outro número: ");
 
-        while (true)
+        static double Numinput(string msg)
         {
-            Console.Write("Digite um número: ");
-            bool verify1 = float.TryParse(Console.ReadLine(), out n1);
+            double num;
 
-            Console.Write("Digite outro número: ");
-            bool verify2 = float.TryParse(Console.ReadLine(), out n2);
+            Console.Write(msg);
 
-            if (verify1 && verify2)
+            while (!double.TryParse(Console.ReadLine(), out num))
             {
-                break;
+                Console.WriteLine("Você não digitou um número.");
+                Console.Write(msg);
             }
 
-            Console.WriteLine("Você não digitou um número.");
+            return num;    
         }
 
         bool verify = n1 > n2;
@@ -105,10 +104,5 @@ class Vars
 
             Console.WriteLine("Você não digitou um caractere.");
         }
-    }
-
-    public static void Var()
-    {
-        Console.WriteLine("\"var\" = variável que armazena um valor de qualquer tipo.");
     }
 }

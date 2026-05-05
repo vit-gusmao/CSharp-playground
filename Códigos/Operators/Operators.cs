@@ -1,13 +1,13 @@
 class Operators
 {
-    public Operators(float n1, float n2)
+    public Operators(double n1, double n2)
     {
         Arithmetic(n1, n2);
         Comparison(n1, n2);
         Logic(n1, n2);
     }
 
-    public static void Arithmetic(float n1, float n2)
+    public static void Arithmetic(double n1, double n2)
     {
         Console.WriteLine($"""
         Operadores Aritméticos:
@@ -17,10 +17,11 @@ class Operators
         Multiplicação: {n1} * {n2} = {n1 * n2}
         Divisão: {n1} / {n2} = {n1 / n2}
         Resto da Divisão: {n1} % {n2} = {n1 % n2}
+        Incrementando variável: n1 = n1 + 1 -> n1+=1: {n1+=1}
         """);
     }
 
-    public static void Comparison(float n1, float n2)
+    public static void Comparison(double n1, double n2)
     {
         Console.WriteLine($"""
         Operadores de Comparação:
@@ -34,7 +35,7 @@ class Operators
         """);
     }
 
-    public static void Logic(float n1, float n2)
+    public static void Logic(double n1, double n2)
     {
         Console.WriteLine($"""
         Operadores Lógicos:
@@ -44,4 +45,4 @@ class Operators
         NÃO (!): !({n1} > 0): {! (n1 > 0)}
         """);
     }
-}    
+}

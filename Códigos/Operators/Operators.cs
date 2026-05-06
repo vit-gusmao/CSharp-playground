@@ -11,7 +11,6 @@ class Operators
     {
         Console.WriteLine($"""
         Operadores Aritméticos:
-
         Adição: {n1} + {n2} = {n1 + n2}
         Subtração: {n1} - {n2} = {n1 - n2}
         Multiplicação: {n1} * {n2} = {n1 * n2}

@@ -1,14 +1,5 @@
 class Vars
 {
-    public static void Var()
-    {
-        Int();
-        Double();
-        String();
-        Bool();
-        Char();
-    }
-
     public static void String()
     {
         Console.WriteLine("\"string\" = variável que armazena uma sequência de caracteres somente usando \"\" (exemplo: string name = \"Vitor\";)");

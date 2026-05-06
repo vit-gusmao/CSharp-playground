@@ -1,0 +1,15 @@
+e:\Programação\C#\CSharp-Playground\Códigos\Format\Double\obj\Debug\net10.0\Format.GeneratedMSBuildEditorConfig.editorconfig
+e:\Programação\C#\CSharp-Playground\Códigos\Format\Double\obj\Debug\net10.0\Format.AssemblyInfoInputs.cache
+e:\Programação\C#\CSharp-Playground\Códigos\Format\Double\obj\Debug\net10.0\Format.AssemblyInfo.cs
+e:\Programação\C#\CSharp-Playground\Códigos\Format\Double\obj\Debug\net10.0\Format.csproj.CoreCompileInputs.cache
+e:\Programação\C#\CSharp-Playground\Códigos\Format\Double\obj\Debug\net10.0\Format.sourcelink.json
+e:\Programação\C#\CSharp-Playground\Códigos\Format\Double\bin\Debug\net10.0\Format.exe
+e:\Programação\C#\CSharp-Playground\Códigos\Format\Double\bin\Debug\net10.0\Format.deps.json
+e:\Programação\C#\CSharp-Playground\Códigos\Format\Double\bin\Debug\net10.0\Format.runtimeconfig.json
+e:\Programação\C#\CSharp-Playground\Códigos\Format\Double\bin\Debug\net10.0\Format.dll
+e:\Programação\C#\CSharp-Playground\Códigos\Format\Double\bin\Debug\net10.0\Format.pdb
+e:\Programação\C#\CSharp-Playground\Códigos\Format\Double\obj\Debug\net10.0\Format.dll
+e:\Programação\C#\CSharp-Playground\Códigos\Format\Double\obj\Debug\net10.0\refint\Format.dll
+e:\Programação\C#\CSharp-Playground\Códigos\Format\Double\obj\Debug\net10.0\Format.pdb
+e:\Programação\C#\CSharp-Playground\Códigos\Format\Double\obj\Debug\net10.0\Format.genruntimeconfig.cache
+e:\Programação\C#\CSharp-Playground\Códigos\Format\Double\obj\Debug\net10.0\ref\Format.dll

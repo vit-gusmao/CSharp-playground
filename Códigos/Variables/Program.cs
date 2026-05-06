@@ -6,7 +6,19 @@ namespace Variables
     {
         static void Main(string[] args)
         {
-            Vars.Var();
+            Vars.String();
+            Console.WriteLine();
+
+            Vars.Int();
+            Console.WriteLine();
+
+            Vars.Double();
+            Console.WriteLine();
+
+            Vars.Bool();
+            Console.WriteLine();
+            
+            Vars.Char();
         }
     
     }

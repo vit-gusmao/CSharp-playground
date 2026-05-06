@@ -12,7 +12,8 @@ class Input
     {
         Console.WriteLine("""Input int e double = var.TryParse(Console.ReadLine(), out var);""");
         Console.Write("Digite um número: ");
-        while (!double.TryParse(Console.ReadLine(), out n[i]))
+        double n;
+        while (!double.TryParse(Console.ReadLine(), out n))
         {
             Console.WriteLine("Você não digitou um número.");
             Console.Write("Digite um número: ");

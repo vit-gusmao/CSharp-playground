@@ -1,6 +1,4 @@
 using System;
-using Internal;
-
 class Arrays
 {
     public static void Array()

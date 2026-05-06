@@ -1,0 +1,15 @@
+E:\Programação\C#\CSharp-Playground\Códigos\For e Foreach\bin\Debug\net10.0\ForForeach.exe
+E:\Programação\C#\CSharp-Playground\Códigos\For e Foreach\bin\Debug\net10.0\ForForeach.deps.json
+E:\Programação\C#\CSharp-Playground\Códigos\For e Foreach\bin\Debug\net10.0\ForForeach.runtimeconfig.json
+E:\Programação\C#\CSharp-Playground\Códigos\For e Foreach\bin\Debug\net10.0\ForForeach.dll
+E:\Programação\C#\CSharp-Playground\Códigos\For e Foreach\bin\Debug\net10.0\ForForeach.pdb
+E:\Programação\C#\CSharp-Playground\Códigos\For e Foreach\obj\Debug\net10.0\ForForeach.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\C#\CSharp-Playground\Códigos\For e Foreach\obj\Debug\net10.0\ForForeach.AssemblyInfoInputs.cache
+E:\Programação\C#\CSharp-Playground\Códigos\For e Foreach\obj\Debug\net10.0\ForForeach.AssemblyInfo.cs
+E:\Programação\C#\CSharp-Playground\Códigos\For e Foreach\obj\Debug\net10.0\ForForeach.csproj.CoreCompileInputs.cache
+E:\Programação\C#\CSharp-Playground\Códigos\For e Foreach\obj\Debug\net10.0\ForForeach.sourcelink.json
+E:\Programação\C#\CSharp-Playground\Códigos\For e Foreach\obj\Debug\net10.0\ForForeach.dll
+E:\Programação\C#\CSharp-Playground\Códigos\For e Foreach\obj\Debug\net10.0\refint\ForForeach.dll
+E:\Programação\C#\CSharp-Playground\Códigos\For e Foreach\obj\Debug\net10.0\ForForeach.pdb
+E:\Programação\C#\CSharp-Playground\Códigos\For e Foreach\obj\Debug\net10.0\ForForeach.genruntimeconfig.cache
+E:\Programação\C#\CSharp-Playground\Códigos\For e Foreach\obj\Debug\net10.0\ref\ForForeach.dll

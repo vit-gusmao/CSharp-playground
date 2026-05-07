@@ -23,9 +23,9 @@ class Input
 
     public static void Numbers()
     {
-        Console.WriteLine("""Vários inputs de números""");
-        double[] n = new double[2];
-        for (int i = 0; i < 2; i++)
+        Console.WriteLine("Vários inputs do mesmo tipo");
+        double[] n = new double[5];
+        for (int i = 0; i < 5; i++)
         {
             Console.Write($"Digite o {i+1}º número: ");
             while (!double.TryParse(Console.ReadLine(), out n[i]))
@@ -34,6 +34,6 @@ class Input
                 Console.Write($"Digite o {i+1}º número: ");
             }
         }
-        Console.WriteLine($"Você digitou o número {n[0]} e {n[1]}.");
+        Console.WriteLine($"Você digitou os números: [{string.Join(", ", n)}]");
     }
 }

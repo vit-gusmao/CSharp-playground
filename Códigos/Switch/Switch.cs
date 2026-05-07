@@ -21,7 +21,7 @@ class Switch
             break;
         
         default:
-            if (!v){Console.WriteLine("opção inválida");}
+            if (!v || select < 2 || select > 2){Console.WriteLine("opção inválida");}
             break;
         }
     }

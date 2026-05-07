@@ -1,9 +1,10 @@
 using System;
 
-class Program
+ class Program
 {
     public static void Main(string[] args)
     {
         Console.WriteLine("Switch = bloco de comandos com cases que ao.");
+        Switch.Swt();
     }
 }

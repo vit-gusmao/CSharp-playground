@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\Programação\\C#\\CSharp-Playground\\Proj\\CSharp-Playground.csproj",
-      "projectName": "CSharp-Playground",
-      "projectPath": "e:\\Programação\\C#\\CSharp-Playground\\Proj\\CSharp-Playground.csproj",
+      "projectUniqueName": "e:\\Programação\\C#\\CSharp-Playground\\Códigos\\Switch\\Switch.csproj",
+      "projectName": "Switch",
+      "projectPath": "e:\\Programação\\C#\\CSharp-Playground\\Códigos\\Switch\\Switch.csproj",
       "packagesPath": "C:\\Users\\SnyX\\.nuget\\packages\\",
-      "outputPath": "e:\\Programação\\C#\\CSharp-Playground\\Proj\\obj\\",
+      "outputPath": "e:\\Programação\\C#\\CSharp-Playground\\Códigos\\Switch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SnyX\\AppData\\Roaming\\NuGet\\NuGet.Config"

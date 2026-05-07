@@ -1,0 +1,21 @@
+{
+  // Evita o Code Runner criar tempCodeRunnerFile.* ao rodar "seleção".
+  // Ele vai sempre rodar o arquivo inteiro.
+  "code-runner.ignoreSelection": true,
+
+  // Qualidade de vida (não é obrigatório, mas ajuda).
+  "code-runner.saveFileBeforeRun": true,
+  "code-runner.fileDirectoryAsCwd": true,
+  "code-runner.clearPreviousOutput": true,
+
+  // Evita "organizar imports"/"fix all" mexer em usings no C# ao salvar.
+  "[csharp]": {
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "never",
+      "source.fixAll": "never"
+    }
+  },
+
+  // Reduz chance de aceitar sugestão acidental no Enter (onde pode entrar um `using ...;`).
+  "editor.acceptSuggestionOnEnter": "off"
+}

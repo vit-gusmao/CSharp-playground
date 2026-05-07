@@ -1,0 +1,15 @@
+E:\Programação\C#\CSharp-Playground\Códigos\Switch\bin\Debug\net10.0\Switch.exe
+E:\Programação\C#\CSharp-Playground\Códigos\Switch\bin\Debug\net10.0\Switch.deps.json
+E:\Programação\C#\CSharp-Playground\Códigos\Switch\bin\Debug\net10.0\Switch.runtimeconfig.json
+E:\Programação\C#\CSharp-Playground\Códigos\Switch\bin\Debug\net10.0\Switch.dll
+E:\Programação\C#\CSharp-Playground\Códigos\Switch\bin\Debug\net10.0\Switch.pdb
+E:\Programação\C#\CSharp-Playground\Códigos\Switch\obj\Debug\net10.0\Switch.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\C#\CSharp-Playground\Códigos\Switch\obj\Debug\net10.0\Switch.AssemblyInfoInputs.cache
+E:\Programação\C#\CSharp-Playground\Códigos\Switch\obj\Debug\net10.0\Switch.AssemblyInfo.cs
+E:\Programação\C#\CSharp-Playground\Códigos\Switch\obj\Debug\net10.0\Switch.csproj.CoreCompileInputs.cache
+E:\Programação\C#\CSharp-Playground\Códigos\Switch\obj\Debug\net10.0\Switch.sourcelink.json
+E:\Programação\C#\CSharp-Playground\Códigos\Switch\obj\Debug\net10.0\Switch.dll
+E:\Programação\C#\CSharp-Playground\Códigos\Switch\obj\Debug\net10.0\refint\Switch.dll
+E:\Programação\C#\CSharp-Playground\Códigos\Switch\obj\Debug\net10.0\Switch.pdb
+E:\Programação\C#\CSharp-Playground\Códigos\Switch\obj\Debug\net10.0\Switch.genruntimeconfig.cache
+E:\Programação\C#\CSharp-Playground\Códigos\Switch\obj\Debug\net10.0\ref\Switch.dll

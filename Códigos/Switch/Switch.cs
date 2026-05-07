@@ -1,5 +1,3 @@
-using Internal;
-
 class Switch
 {
     public static void swtch()

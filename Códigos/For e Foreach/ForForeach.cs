@@ -47,25 +47,29 @@ class ForForeach
     }
     public static void Foreach()
    {
-       Console.Write("Digite a quantidade de frases que você deseja digitar: ");
+       Console.Write("Digite a quantidade de números que você deseja digitar: ");
        int qnt;
        while (!int.TryParse(Console.ReadLine(), out qnt))
        {
             Console.WriteLine("Você não digitou um número inteiro.");
-            Console.Write("Digite a quantidade de frases que você deseja digitar: ");
+            Console.Write("Digite a quantidade de números que você deseja digitar: ");
        }
-       string[] frase = new string[qnt];
+       double[] n = new double[qnt];
 
         for (int i = 0; i < qnt; i++)
         {
-            Console.Write($"Digite a {i+1}º frase: ");
-            frase[i] = Console.ReadLine();
+            Console.Write($"Digite o {i+1}º número: ");
+            while (!double.TryParse(Console.ReadLine(), out n[i]))
+            {
+                Console.WriteLine("Você não digitou um número.");
+                Console.Write($"Digite o {i+1}º número: ");
+            }
         }
 
-        Console.Write("Aqui está todas as frases que você digitou: ");
-        foreach (string f in frase)
+        Console.Write("Aqui está todos os números que você digitou: ");
+        foreach (double num in n)
         {
-            Console.Write(f);
+            Console.Write($"[{num}, ]");
         }
   }  
 }

@@ -10,7 +10,18 @@ class Program
         z =  incremento / decremento do contador
 
         """);
-        ForForeach.For();
         Console.WriteLine();
+
+        ForForeach.For();
+
+        Console.WriteLine("""
+        \"foreach(var in array)\"
+          foreach percorre todos os elementos de um array
+          var = variável que armazenará o valor de cada elemento do array
+          array = array que será percorrido
+        """);
+        Console.WriteLine();
+
+        ForForeach.Foreach();
     }
 }

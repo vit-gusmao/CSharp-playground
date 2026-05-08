@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ForForeach")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1c611f9235bd998d50eb80a1b0a32693ac31150")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3247c73b903ccdd618ccbc3869e6b6d6bdc56e55")]
 [assembly: System.Reflection.AssemblyProductAttribute("ForForeach")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ForForeach")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

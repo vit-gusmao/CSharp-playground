@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programação\\C#\\CSharp-Playground\\Códigos\\For e Foreach\\ForForeach.csproj": {}
+    "e:\\Programação\\C#\\CSharp-Playground\\Códigos\\For e Foreach\\ForForeach.csproj": {}
   },
   "projects": {
-    "E:\\Programação\\C#\\CSharp-Playground\\Códigos\\For e Foreach\\ForForeach.csproj": {
+    "e:\\Programação\\C#\\CSharp-Playground\\Códigos\\For e Foreach\\ForForeach.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programação\\C#\\CSharp-Playground\\Códigos\\For e Foreach\\ForForeach.csproj",
+        "projectUniqueName": "e:\\Programação\\C#\\CSharp-Playground\\Códigos\\For e Foreach\\ForForeach.csproj",
         "projectName": "ForForeach",
-        "projectPath": "E:\\Programação\\C#\\CSharp-Playground\\Códigos\\For e Foreach\\ForForeach.csproj",
+        "projectPath": "e:\\Programação\\C#\\CSharp-Playground\\Códigos\\For e Foreach\\ForForeach.csproj",
         "packagesPath": "C:\\Users\\SnyX\\.nuget\\packages\\",
-        "outputPath": "E:\\Programação\\C#\\CSharp-Playground\\Códigos\\For e Foreach\\obj\\",
+        "outputPath": "e:\\Programação\\C#\\CSharp-Playground\\Códigos\\For e Foreach\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SnyX\\AppData\\Roaming\\NuGet\\NuGet.Config"

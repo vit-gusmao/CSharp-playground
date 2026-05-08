@@ -1,0 +1,15 @@
+e:\Programação\C#\CSharp-Playground\Códigos\Hello World\bin\Debug\net10.0\HelloWorld.exe
+e:\Programação\C#\CSharp-Playground\Códigos\Hello World\bin\Debug\net10.0\HelloWorld.deps.json
+e:\Programação\C#\CSharp-Playground\Códigos\Hello World\bin\Debug\net10.0\HelloWorld.runtimeconfig.json
+e:\Programação\C#\CSharp-Playground\Códigos\Hello World\bin\Debug\net10.0\HelloWorld.dll
+e:\Programação\C#\CSharp-Playground\Códigos\Hello World\bin\Debug\net10.0\HelloWorld.pdb
+e:\Programação\C#\CSharp-Playground\Códigos\Hello World\obj\Debug\net10.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+e:\Programação\C#\CSharp-Playground\Códigos\Hello World\obj\Debug\net10.0\HelloWorld.AssemblyInfoInputs.cache
+e:\Programação\C#\CSharp-Playground\Códigos\Hello World\obj\Debug\net10.0\HelloWorld.AssemblyInfo.cs
+e:\Programação\C#\CSharp-Playground\Códigos\Hello World\obj\Debug\net10.0\HelloWorld.csproj.CoreCompileInputs.cache
+e:\Programação\C#\CSharp-Playground\Códigos\Hello World\obj\Debug\net10.0\HelloWorld.sourcelink.json
+e:\Programação\C#\CSharp-Playground\Códigos\Hello World\obj\Debug\net10.0\HelloWorld.dll
+e:\Programação\C#\CSharp-Playground\Códigos\Hello World\obj\Debug\net10.0\refint\HelloWorld.dll
+e:\Programação\C#\CSharp-Playground\Códigos\Hello World\obj\Debug\net10.0\HelloWorld.pdb
+e:\Programação\C#\CSharp-Playground\Códigos\Hello World\obj\Debug\net10.0\HelloWorld.genruntimeconfig.cache
+e:\Programação\C#\CSharp-Playground\Códigos\Hello World\obj\Debug\net10.0\ref\HelloWorld.dll

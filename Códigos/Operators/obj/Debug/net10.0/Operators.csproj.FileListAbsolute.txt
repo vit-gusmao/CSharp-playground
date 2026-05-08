@@ -3,7 +3,6 @@ e:\Programação\C#\CSharp-Playground\Códigos\Operators\obj\Debug\net10.0\Opera
 e:\Programação\C#\CSharp-Playground\Códigos\Operators\obj\Debug\net10.0\Operators.AssemblyInfo.cs
 e:\Programação\C#\CSharp-Playground\Códigos\Operators\obj\Debug\net10.0\Operators.csproj.CoreCompileInputs.cache
 e:\Programação\C#\CSharp-Playground\Códigos\Operators\obj\Debug\net10.0\Operators.sourcelink.json
-e:\Programação\C#\CSharp-Playground\Códigos\Operators\bin\Debug\net10.0\Operators.exe
 e:\Programação\C#\CSharp-Playground\Códigos\Operators\bin\Debug\net10.0\Operators.deps.json
 e:\Programação\C#\CSharp-Playground\Códigos\Operators\bin\Debug\net10.0\Operators.runtimeconfig.json
 e:\Programação\C#\CSharp-Playground\Códigos\Operators\bin\Debug\net10.0\Operators.dll

@@ -6,6 +6,13 @@
     <RootNamespace>CSharp_Playground</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <UseAppHost>false</UseAppHost>
   </PropertyGroup>
+
+  <!-- Evita MSB3027/MSB3021: arquivo em uso por execução antiga -->
+  <Target Name="KillOperatorsLocks" BeforeTargets="Build" Condition="'$(OS)' == 'Windows_NT'">
+    <Exec
+      Command="powershell -NoProfile -ExecutionPolicy Bypass -Command &quot;try{Get-Process -Name Operators -ErrorAction SilentlyContinue | Stop-Process -Force -ErrorAction SilentlyContinue}catch{}; try{Get-CimInstance Win32_Process | Where-Object { ($_.Name -in @('.NET Host','.NET Host.exe')) -and ($_.CommandLine) -and ($_.CommandLine -match 'Operators\.dll') } | ForEach-Object { Stop-Process -Id $_.ProcessId -Force -ErrorAction SilentlyContinue }}catch{};&quot;" />
+  </Target>
 
 </Project>

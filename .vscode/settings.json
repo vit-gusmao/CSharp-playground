@@ -7,6 +7,13 @@
   "code-runner.saveFileBeforeRun": true,
   "code-runner.fileDirectoryAsCwd": true,
   "code-runner.clearPreviousOutput": true,
+  "code-runner.runInTerminal": true,
+
+  // Faz o "Run Code" do Code Runner rodar com segurança (mata Operators.exe pendente).
+  // Isso evita o erro MSB3027/MSB3021 de arquivo em uso.
+  "code-runner.executorMap": {
+    "csharp": "powershell -NoProfile -ExecutionPolicy Bypass -File \"${workspaceFolder}\\.vscode\\run-operators.ps1\""
+  },
 
   // Evita "organizar imports"/"fix all" mexer em usings no C# ao salvar.
   "[csharp]": {
